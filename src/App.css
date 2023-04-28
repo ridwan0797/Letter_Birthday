@@ -1,5 +1,17 @@
+@fontface {
+  font-family: 'Dancing Script', cursive;
+  src: url('https: //fonts.googleapis.com/css2?family=Dancing+Script')
+}
+
+.font-import {
+  font-family: 'Dancing Script', cursive;
+}
+
 .App {
   text-align: center;
+  background-color: #eae3e3;
+  width: 100vw;
+  height: 100vh;
 }
 
 .App-logo {
